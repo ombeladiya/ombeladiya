@@ -19,6 +19,6 @@ I am a Full-Stack Developer specializing in the MERN stack and React Native, wit
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](www.linkedin.com/in/om-beladiya-0593331b4)   
+- [LinkedIn](https://linkedin.com/in/om-beladiya-0593331b4)   
 - Email: ombeladiya1854@gmail.com 
 
