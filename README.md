@@ -6,10 +6,10 @@ I am a Full-Stack Developer specializing in the MERN stack and React Native, wit
 
 ## 🔧 Tech Stack
 - **Frontend:** React.js, Next.js, React Native, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, MySQL, Firebase  
+- **Backend:** Node.js, Express.js, FastAPI  
+- **Databases:** MongoDB, MySQL, Postgres 
 - **AI/ML & Data:** Python, TensorFlow, Pandas, NumPy, Scikit-learn  
-- **Tools & Platforms:** Git, GitHub, Docker, Vercel, Cloudinary, Postman  
+- **Tools & Platforms:** Git, GitHub, Docker, Cloudinary, Postman  
 
 
 ## 📈 GitHub Stats
@@ -19,7 +19,6 @@ I am a Full-Stack Developer specializing in the MERN stack and React Native, wit
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Portfolio](https://yourwebsite.com)  
-- Email: your.email@example.com  
+- [LinkedIn](www.linkedin.com/in/om-beladiya-0593331b4)   
+- Email: ombeladiya1854@gmail.com 
 
